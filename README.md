@@ -26,7 +26,7 @@ To empower students at my college by creating a collaborative space where we can
   </a>
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  
 
 ## 📫 Let’s connect 
 - 📧 ateek7281@gmail.com 
