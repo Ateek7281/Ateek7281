@@ -19,11 +19,6 @@ To empower students at my college by creating a collaborative space where we can
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
----
-
 🛠️  **My Skills**
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,8 +26,7 @@ To empower students at my college by creating a collaborative space where we can
   </a>
 </p>
 
-
----
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ## 📫 Let’s connect 
 - 📧 ateek7281@gmail.com 
