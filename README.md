@@ -18,6 +18,15 @@ To empower students at my college by creating a collaborative space where we can
 - Building my first case study as a UI/UX designer  
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+---
+
 🛠️  **My Skills**
 <p align="center">
   <a href="https://skillicons.dev">
