@@ -20,7 +20,7 @@ To empower students at my college by creating a collaborative space where we can
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githun,,css,js,figma=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,,css,js,figma&theme=dark" />
   </a>
 </p>
 ---
