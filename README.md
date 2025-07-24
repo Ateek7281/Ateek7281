@@ -18,12 +18,13 @@ To empower students at my college by creating a collaborative space where we can
 - Building my first case study as a UI/UX designer  
 
 ---
+My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,,css,js,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,html,css,js,figma&theme=dark" />
   </a>
 </p>
----
+
 
 ---
 
