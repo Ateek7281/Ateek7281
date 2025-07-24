@@ -20,10 +20,7 @@ To empower students at my college by creating a collaborative space where we can
 [![My Skills](https://skillicons.dev/icons?i=html,md,js,github,figma&theme=dark,css,discord)](https://skillicons.dev)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 ---
 
 ## 📫 Let’s connect 
