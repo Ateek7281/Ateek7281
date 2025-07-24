@@ -17,7 +17,7 @@ To empower students at my college by creating a collaborative space where we can
 - Beginner-friendly workshops for design and open source  
 - Building my first case study as a UI/UX designer  
  
-
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,github,figma&theme=dark)](https://skillicons.dev)
 ---
 
 ## 📫 Let’s connect 
