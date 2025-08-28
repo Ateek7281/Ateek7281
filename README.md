@@ -29,4 +29,5 @@ To empower students at my college by creating a collaborative space where we can
   
 
 ## 📫 Let’s connect 
-- 📧 ateek7281@gmail.com 
+- 📧 ateek.khan.designs@gmail.com
+   
